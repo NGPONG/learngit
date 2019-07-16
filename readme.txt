@@ -1,6 +1,2 @@
-1
-2
-3
-4
-5
+one
 Git tracks changes of files.
