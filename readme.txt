@@ -3,4 +3,4 @@
 3
 4
 5
-Git tracks changes.
+Git tracks changes of files.
